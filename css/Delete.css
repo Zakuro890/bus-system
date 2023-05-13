@@ -15,17 +15,6 @@ button{
 	background-color:red;
 	
 }
-/*
-引用元：【コピペ・css】コピペで簡単お問い合わせフォームのデザイン【HP制作・Web制作・参考】
-https://www.legit.co.jp/contact_css/17931
-*/
-
-
-/*リセットcss↓*/
-/*
-引用元：【コピペ・css】コピペで簡単お問い合わせフォームのデザイン【HP制作・Web制作・参考】
-https://www.legit.co.jp/contact_css/17931
-*/
 
 
 /*リセットcss↓*/
@@ -326,10 +315,6 @@ p{
 }
 
 
-/*
-引用元：「コピペ」で簡単！Webパーツ屋
-https://haniwaman.com/parts/post-3775
-*/
 
 .my-parts {
   border-collapse: collapse;
@@ -350,10 +335,7 @@ https://haniwaman.com/parts/post-3775
   font-weight: bold;
 }
 
-/*
-引用元：CSSでできるクリエイティブなリンクホバーエフェクト6個まとめ
-https://photoshopvip.net/133583
-*/
+
 
 a {
 	color: #18272F;
